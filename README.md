@@ -1,1 +1,1 @@
-# passwordGen2.github.io
+# passwordGen
